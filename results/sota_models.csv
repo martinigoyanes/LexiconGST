@@ -1,0 +1,9 @@
+Dataset,Model,J
+Jigsaw, MultiLexiconGST,0.38
+Jigsaw, Mask&Infill, 0.31
+Jigsaw, BlindedGST, 0.27
+Jigsaw, SST, 0.05
+Paradetox, MultiLexiconGST, 0.49
+Paradetox, Mask&Infill, 0.48
+Paradetox, BlindedGST, 0.32
+Paradetox, SST, 0.10
