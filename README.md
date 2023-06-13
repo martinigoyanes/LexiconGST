@@ -12,4 +12,3 @@ detoxification task among state-of-the-art methods. Finally, this research confi
 resources can guide deep learning techniques and improve its performance.
 
 ![LexiconGST System Overview](./architecture.svg)
-<img src="./architecture.svg">
